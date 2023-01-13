@@ -1,0 +1,108 @@
+,Month,CustomerID,State,Region,Sales
+0,1964-01,CG-12520,Kentucky,South,2815.0
+1,1964-02,CG-12520,Kentucky,South,2672.0
+2,1964-03,DV-13045,California,West,2755.0
+3,1964-04,SO-20335,Florida,South,2721.0
+4,1964-05,SO-20335,Florida,South,2946.0
+5,1964-06,BH-11710,California,West,3036.0
+6,1964-07,BH-11710,California,West,2282.0
+7,1964-08,BH-11710,California,West,2212.0
+8,1964-09,BH-11710,California,West,2922.0
+9,1964-10,BH-11710,California,West,4301.0
+10,1964-11,BH-11710,California,West,5764.0
+11,1964-12,BH-11710,California,West,7312.0
+12,1965-01,AA-10480,North Carolina,South,2541.0
+13,1965-02,IM-15070,Washington,West,2475.0
+14,1965-03,HP-14815,Texas,Central,3031.0
+15,1965-04,HP-14815,Texas,Central,3266.0
+16,1965-05,PK-19075,Wisconsin,Central,3776.0
+17,1965-06,AG-10270,Utah,West,3230.0
+18,1965-07,ZD-21925,California,West,3028.0
+19,1965-08,ZD-21925,California,West,1759.0
+20,1965-09,ZD-21925,California,West,3595.0
+21,1965-10,KB-16585,Nebraska,Central,4474.0
+22,1965-11,KB-16585,Nebraska,Central,6838.0
+23,1965-12,SF-20065,Pennsylvania,East,8357.0
+24,1966-01,EB-13870,Utah,West,3113.0
+25,1966-02,EH-13945,California,West,3006.0
+26,1966-03,EH-13945,California,West,4047.0
+27,1966-04,TB-21520,Pennsylvania,East,3523.0
+28,1966-05,TB-21520,Pennsylvania,East,3937.0
+29,1966-06,TB-21520,Pennsylvania,East,3986.0
+30,1966-07,TB-21520,Pennsylvania,East,3260.0
+31,1966-08,TB-21520,Pennsylvania,East,1573.0
+32,1966-09,TB-21520,Pennsylvania,East,3528.0
+33,1966-10,TB-21520,Pennsylvania,East,5211.0
+34,1966-11,MA-17560,Texas,Central,7614.0
+35,1966-12,GH-14485,Texas,Central,9254.0
+36,1967-01,GH-14485,Texas,Central,5375.0
+37,1967-02,SN-20710,Texas,Central,3088.0
+38,1967-03,SN-20710,Texas,Central,3718.0
+39,1967-04,SN-20710,Texas,Central,4514.0
+40,1967-05,SN-20710,Texas,Central,4520.0
+41,1967-06,LC-16930,Illinois,Central,4539.0
+42,1967-07,RA-19885,California,West,3663.0
+43,1967-08,ES-14080,Florida,South,1643.0
+44,1967-09,ON-18715,Minnesota,Central,4739.0
+45,1967-10,ON-18715,Minnesota,Central,5428.0
+46,1967-11,PO-18865,Michigan,Central,8314.0
+47,1967-12,LH-16900,Delaware,East,10651.0
+48,1968-01,LH-16900,Delaware,East,3633.0
+49,1968-02,DP-13000,Indiana,Central,4292.0
+50,1968-03,DP-13000,Indiana,Central,4154.0
+51,1968-04,DP-13000,Indiana,Central,4121.0
+52,1968-05,DP-13000,Indiana,Central,4647.0
+53,1968-06,JM-15265,New York,East,4753.0
+54,1968-07,JM-15265,New York,East,3965.0
+55,1968-08,TB-21055,New York,East,1723.0
+56,1968-09,TB-21055,New York,East,5048.0
+57,1968-10,TB-21055,New York,East,6922.0
+58,1968-11,TB-21055,New York,East,9858.0
+59,1968-12,TB-21055,New York,East,11331.0
+60,1969-01,TB-21055,New York,East,4016.0
+61,1969-02,TB-21055,New York,East,3957.0
+62,1969-03,KM-16720,California,West,4510.0
+63,1969-04,KM-16720,California,West,4276.0
+64,1969-05,KM-16720,California,West,4968.0
+65,1969-06,KM-16720,California,West,4677.0
+66,1969-07,PS-18970,Illinois,Central,3523.0
+67,1969-08,BS-11590,Arizona,West,1821.0
+68,1969-09,BS-11590,Arizona,West,5222.0
+69,1969-10,KD-16270,Virginia,South,6872.0
+70,1969-11,HM-14980,New York,East,10803.0
+71,1969-12,TB-21520,Michigan,Central,13916.0
+72,1970-01,JE-15745,Tennessee,South,2639.0
+73,1970-02,JE-15745,Tennessee,South,2899.0
+74,1970-03,JE-15745,Tennessee,South,3370.0
+75,1970-04,KB-16600,Texas,Central,3740.0
+76,1970-05,KB-16600,Texas,Central,2927.0
+77,1970-06,KB-16600,Texas,Central,3986.0
+78,1970-07,JE-15745,Texas,Central,4217.0
+79,1970-08,SC-20770,Alabama,South,1738.0
+80,1970-09,SC-20770,Alabama,South,5221.0
+81,1970-10,DN-13690,California,West,6424.0
+82,1970-11,DN-13690,California,West,9842.0
+83,1970-12,JC-16105,North Carolina,South,13076.0
+84,1971-01,CS-12400,Illinois,Central,3934.0
+85,1971-02,PO-18865,South Carolina,South,3162.0
+86,1971-03,PG-18895,Minnesota,Central,4286.0
+87,1971-04,PG-18895,Minnesota,Central,4676.0
+88,1971-05,GM-14455,Texas,Central,5010.0
+89,1971-06,JS-15685,California,West,4874.0
+90,1971-07,JS-15685,California,West,4633.0
+91,1971-08,JS-15685,California,West,1659.0
+92,1971-09,KB-16315,Minnesota,Central,5951.0
+93,1971-10,KB-16315,Minnesota,Central,6981.0
+94,1971-11,KB-16315,Minnesota,Central,9851.0
+95,1971-12,RB-19705,Oregon,West,12670.0
+96,1972-01,PN-18775,New York,East,4348.0
+97,1972-02,KD-16345,California,West,3564.0
+98,1972-03,ER-13855,Minnesota,Central,4577.0
+99,1972-04,RB-19465,Illinois,Central,4788.0
+100,1972-05,RB-19465,Illinois,Central,4618.0
+101,1972-06,RB-19465,Illinois,Central,5312.0
+102,1972-07,GZ-14470,Minnesota,Central,4298.0
+103,1972-08,LC-16870,Colorado,West,1413.0
+104,1972-09,LC-16870,Colorado,West,5877.0
+105,,,,,
+106,Perrin Freres monthly champagne sales millions ?64-?72,,,,

@@ -1,0 +1,108 @@
+Month,Stocks_Sold,Region,State,CustomerID
+1964-01,2815,South,Kentucky,CG-12520
+1964-02,2672,South,Kentucky,CG-12520
+1964-03,2755,West,California,DV-13045
+1964-04,2721,South,Florida,SO-20335
+1964-05,2946,South,Florida,SO-20335
+1964-06,3036,West,California,BH-11710
+1964-07,2282,West,California,BH-11710
+1964-08,2212,West,California,BH-11710
+1964-09,2922,West,California,BH-11710
+1964-10,4301,West,California,BH-11710
+1964-11,5764,West,California,BH-11710
+1964-12,7312,West,California,BH-11710
+1965-01,2541,South,North Carolina,AA-10480
+1965-02,2475,West,Washington,IM-15070
+1965-03,3031,Central,Texas,HP-14815
+1965-04,3266,Central,Texas,HP-14815
+1965-05,3776,Central,Wisconsin,PK-19075
+1965-06,3230,West,Utah,AG-10270
+1965-07,3028,West,California,ZD-21925
+1965-08,1759,West,California,ZD-21925
+1965-09,3595,West,California,ZD-21925
+1965-10,4474,Central,Nebraska,KB-16585
+1965-11,6838,Central,Nebraska,KB-16585
+1965-12,8357,East,Pennsylvania,SF-20065
+1966-01,3113,West,Utah,EB-13870
+1966-02,3006,West,California,EH-13945
+1966-03,4047,West,California,EH-13945
+1966-04,3523,East,Pennsylvania,TB-21520
+1966-05,3937,East,Pennsylvania,TB-21520
+1966-06,3986,East,Pennsylvania,TB-21520
+1966-07,3260,East,Pennsylvania,TB-21520
+1966-08,1573,East,Pennsylvania,TB-21520
+1966-09,3528,East,Pennsylvania,TB-21520
+1966-10,5211,East,Pennsylvania,TB-21520
+1966-11,7614,Central,Texas,MA-17560
+1966-12,9254,Central,Texas,GH-14485
+1967-01,5375,Central,Texas,GH-14485
+1967-02,3088,Central,Texas,SN-20710
+1967-03,3718,Central,Texas,SN-20710
+1967-04,4514,Central,Texas,SN-20710
+1967-05,4520,Central,Texas,SN-20710
+1967-06,4539,Central,Illinois,LC-16930
+1967-07,3663,West,California,RA-19885
+1967-08,1643,South,Florida,ES-14080
+1967-09,4739,Central,Minnesota,ON-18715
+1967-10,5428,Central,Minnesota,ON-18715
+1967-11,8314,Central,Michigan,PO-18865
+1967-12,10651,East,Delaware,LH-16900
+1968-01,3633,East,Delaware,LH-16900
+1968-02,4292,Central,Indiana,DP-13000
+1968-03,4154,Central,Indiana,DP-13000
+1968-04,4121,Central,Indiana,DP-13000
+1968-05,4647,Central,Indiana,DP-13000
+1968-06,4753,East,New York,JM-15265
+1968-07,3965,East,New York,JM-15265
+1968-08,1723,East,New York,TB-21055
+1968-09,5048,East,New York,TB-21055
+1968-10,6922,East,New York,TB-21055
+1968-11,9858,East,New York,TB-21055
+1968-12,11331,East,New York,TB-21055
+1969-01,4016,East,New York,TB-21055
+1969-02,3957,East,New York,TB-21055
+1969-03,4510,West,California,KM-16720
+1969-04,4276,West,California,KM-16720
+1969-05,4968,West,California,KM-16720
+1969-06,4677,West,California,KM-16720
+1969-07,3523,Central,Illinois,PS-18970
+1969-08,1821,West,Arizona,BS-11590
+1969-09,5222,West,Arizona,BS-11590
+1969-10,6872,South,Virginia,KD-16270
+1969-11,10803,East,New York,HM-14980
+1969-12,13916,Central,Michigan,TB-21520
+1970-01,2639,South,Tennessee,JE-15745
+1970-02,2899,South,Tennessee,JE-15745
+1970-03,3370,South,Tennessee,JE-15745
+1970-04,3740,Central,Texas,KB-16600
+1970-05,2927,Central,Texas,KB-16600
+1970-06,3986,Central,Texas,KB-16600
+1970-07,4217,Central,Texas,JE-15745
+1970-08,1738,South,Alabama,SC-20770
+1970-09,5221,South,Alabama,SC-20770
+1970-10,6424,West,California,DN-13690
+1970-11,9842,West,California,DN-13690
+1970-12,13076,South,North Carolina,JC-16105
+1971-01,3934,Central,Illinois,CS-12400
+1971-02,3162,South,South Carolina,PO-18865
+1971-03,4286,Central,Minnesota,PG-18895
+1971-04,4676,Central,Minnesota,PG-18895
+1971-05,5010,Central,Texas,GM-14455
+1971-06,4874,West,California,JS-15685
+1971-07,4633,West,California,JS-15685
+1971-08,1659,West,California,JS-15685
+1971-09,5951,Central,Minnesota,KB-16315
+1971-10,6981,Central,Minnesota,KB-16315
+1971-11,9851,Central,Minnesota,KB-16315
+1971-12,12670,West,Oregon,RB-19705
+1972-01,4348,East,New York,PN-18775
+1972-02,3564,West,California,KD-16345
+1972-03,4577,Central,Minnesota,ER-13855
+1972-04,4788,Central,Illinois,RB-19465
+1972-05,4618,Central,Illinois,RB-19465
+1972-06,5312,Central,Illinois,RB-19465
+1972-07,4298,Central,Minnesota,GZ-14470
+1972-08,1413,West,Colorado,LC-16870
+1972-09,5877,West,Colorado,LC-16870
+,,,,
+Perrin Freres monthly champagne sales millions ?64-?72,,,,

@@ -1,0 +1,106 @@
+CustomerID,Month,Stocks sold ,Location,Region
+CG-12520,1964-01,2815,Henderson,South
+CG-12520,1964-02,2672,Henderson,South
+DV-13045,1964-03,2755,Los Angeles,West
+SO-20335,1964-04,2721,Fort Lauderdale,South
+SO-20335,1964-05,2946,Fort Lauderdale,South
+BH-11710,1964-06,3036,Los Angeles,West
+BH-11710,1964-07,2282,Los Angeles,West
+BH-11710,1964-08,2212,Los Angeles,West
+BH-11710,1964-09,2922,Los Angeles,West
+BH-11710,1964-10,4301,Los Angeles,West
+BH-11710,1964-11,5764,Los Angeles,West
+BH-11710,1964-12,7312,Los Angeles,West
+AA-10480,1965-01,2541,Concord,South
+IM-15070,1965-02,2475,Seattle,West
+HP-14815,1965-03,3031,Fort Worth,Central
+HP-14815,1965-04,3266,Fort Worth,Central
+PK-19075,1965-05,3776,Madison,Central
+AG-10270,1965-06,3230,West Jordan,West
+ZD-21925,1965-07,3028,San Francisco,West
+ZD-21925,1965-08,1759,San Francisco,West
+ZD-21925,1965-09,3595,San Francisco,West
+KB-16585,1965-10,4474,Fremont,Central
+KB-16585,1965-11,6838,Fremont,Central
+SF-20065,1965-12,8357,Philadelphia,East
+EB-13870,1966-01,3113,Orem,West
+EH-13945,1966-02,3006,Los Angeles,West
+EH-13945,1966-03,4047,Los Angeles,West
+TB-21520,1966-04,3523,Philadelphia,East
+TB-21520,1966-05,3937,Philadelphia,East
+TB-21520,1966-06,3986,Philadelphia,East
+TB-21520,1966-07,3260,Philadelphia,East
+TB-21520,1966-08,1573,Philadelphia,East
+TB-21520,1966-09,3528,Philadelphia,East
+TB-21520,1966-10,5211,Philadelphia,East
+MA-17560,1966-11,7614,Houston,Central
+GH-14485,1966-12,9254,Richardson,Central
+GH-14485,1967-01,5375,Richardson,Central
+SN-20710,1967-02,3088,Houston,Central
+SN-20710,1967-03,3718,Houston,Central
+SN-20710,1967-04,4514,Houston,Central
+SN-20710,1967-05,4520,Houston,Central
+LC-16930,1967-06,4539,Naperville,Central
+RA-19885,1967-07,3663,Los Angeles,West
+ES-14080,1967-08,1643,Melbourne,South
+ON-18715,1967-09,4739,Eagan,Central
+ON-18715,1967-10,5428,Eagan,Central
+PO-18865,1967-11,8314,Westland,Central
+LH-16900,1967-12,10651,Dover,East
+LH-16900,1968-01,3633,Dover,East
+DP-13000,1968-02,4292,New Albany,Central
+DP-13000,1968-03,4154,New Albany,Central
+DP-13000,1968-04,4121,New Albany,Central
+DP-13000,1968-05,4647,New Albany,Central
+JM-15265,1968-06,4753,New York City,East
+JM-15265,1968-07,3965,New York City,East
+TB-21055,1968-08,1723,Troy,East
+TB-21055,1968-09,5048,Troy,East
+TB-21055,1968-10,6922,Troy,East
+TB-21055,1968-11,9858,Troy,East
+TB-21055,1968-12,11331,Troy,East
+TB-21055,1969-01,4016,Troy,East
+TB-21055,1969-02,3957,Troy,East
+KM-16720,1969-03,4510,Los Angeles,West
+KM-16720,1969-04,4276,Los Angeles,West
+KM-16720,1969-05,4968,Los Angeles,West
+KM-16720,1969-06,4677,Los Angeles,West
+PS-18970,1969-07,3523,Chicago,Central
+BS-11590,1969-08,1821,Gilbert,West
+BS-11590,1969-09,5222,Gilbert,West
+KD-16270,1969-10,6872,Springfield,South
+HM-14980,1969-11,10803,New York City,East
+TB-21520,1969-12,13916,Jackson,Central
+JE-15745,1970-01,2639,Memphis,South
+JE-15745,1970-02,2899,Memphis,South
+JE-15745,1970-03,3370,Memphis,South
+KB-16600,1970-04,3740,Houston,Central
+KB-16600,1970-05,2927,Houston,Central
+KB-16600,1970-06,3986,Houston,Central
+JE-15745,1970-07,4217,Houston,Central
+SC-20770,1970-08,1738,Decatur,South
+SC-20770,1970-09,5221,Decatur,South
+DN-13690,1970-10,6424,San Francisco,West
+DN-13690,1970-11,9842,San Francisco,West
+JC-16105,1970-12,13076,Durham,South
+CS-12400,1971-01,3934,Chicago,Central
+PO-18865,1971-02,3162,Columbia,South
+PG-18895,1971-03,4286,Rochester,Central
+PG-18895,1971-04,4676,Rochester,Central
+GM-14455,1971-05,5010,Houston,Central
+JS-15685,1971-06,4874,Los Angeles,West
+JS-15685,1971-07,4633,Los Angeles,West
+JS-15685,1971-08,1659,Los Angeles,West
+KB-16315,1971-09,5951,Minneapolis,Central
+KB-16315,1971-10,6981,Minneapolis,Central
+KB-16315,1971-11,9851,Minneapolis,Central
+RB-19705,1971-12,12670,Portland,West
+PN-18775,1972-01,4348,New York City,East
+KD-16345,1972-02,3564,San Francisco,West
+ER-13855,1972-03,4577,Saint Paul,Central
+RB-19465,1972-04,4788,Chicago,Central
+RB-19465,1972-05,4618,Chicago,Central
+RB-19465,1972-06,5312,Chicago,Central
+GZ-14470,1972-07,4298,Rochester,Central
+LC-16870,1972-08,1413,Aurora,West
+LC-16870,1972-09,5877,Aurora,West
